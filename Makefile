@@ -1,5 +1,5 @@
 
-USER = thela
+USER = default
 
 KEYBOARDS = numpad21
 PATH_numpad21 = numpad21
