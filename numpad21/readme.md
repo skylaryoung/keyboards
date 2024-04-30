@@ -1,13 +1,15 @@
 # handwired/numpad21
 
-![handwired/numpad21](imgur.com image replace me!)
+<img width="1117" alt="numpad21-inprogress" src="https://github.com/skylaryoung/keyboards/assets/30451092/3c5ec90d-e948-4535-b432-d5a22291c5fa">
 
-*A short description of the keyboard/project*
+
+This is a standard number pad with 4 extra macro keys at the top of the layout and LEDs to indicate which layer is working.
 
 * Keyboard Maintainer: [Skylar Young](https://github.com/skylaryoung)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Hardware Supported: It's a handwired layout using a ProMicro
+* Hardware Availability: 3D models coming soon...
 
+  
 Make example for this keyboard (after setting up your build environment):
 
     make handwired/numpad21:default
